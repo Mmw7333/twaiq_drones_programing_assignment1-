@@ -1,0 +1,3 @@
+count = int(input("add number: "))
+for i in range(count):
+    print("drones programming")
